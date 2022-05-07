@@ -1,0 +1,24 @@
+{
+  "name": "weather-app-nodejs-l",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basicOfAsysnc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuRaj-IN/Weather-App-NodeJs-L.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshuRaj-IN/Weather-App-NodeJs-L/issues"
+  },
+  "homepage": "https://github.com/himanshuRaj-IN/Weather-App-NodeJs-L#readme",
+  "dependencies": {
+    "postman-request": "^2.88.1-postman.31",
+    "request": "^2.88.2"
+  }
+}
